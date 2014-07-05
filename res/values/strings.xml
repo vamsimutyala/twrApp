@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFirstApp</string>
+    <string name="hello_world">Hello world stariting point! </string><string name="welcome">This is my First app... !</string><string name="action_settings">Settings</string>
+    
+    
+    <color name="title">#000</color>
+
+</resources>
